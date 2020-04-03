@@ -6,4 +6,4 @@ To contribute to this list, you can:
 1. Take the usual GitHub steps
 2. Fill in this [form](https://forms.gle/YbBEU7pFMh4ivSd19)
 
-If you have other suggestions, contactthe SAGE Ocean team directly.
+If you have other suggestions, contactthe [SAGE Ocean team](https://ocean.sagepub.com) directly.
