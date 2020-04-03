@@ -1,0 +1,263 @@
+,Title,Author,Date,Tag,Medium,Hosted?,Link
+1,12a: Neural Nets,MIT OpenCourseWare,"April 20, 2016",,YouTube Video,,https://www.youtube.com/watch?v=uXt8qF2Zzfo
+2,12b: Deep Neural Nets,MIT OpenCourseWare,"April 20, 2016",,YouTube Video,,https://www.youtube.com/watch?v=VrMHA3yX_QI
+3,2017-2018 Summer Boot Camp on Computational Social Science,"Tian Zheng and Raymond Hicks, Columbia University",2018,,Course Materials,Github,https://github.com/DS-BootCamp-DSI-Columbia/AY2017-2018-Summer-CSS
+4,2018 Summer Institutes for Computational Social Science,"Chris Bail, Matthew Salganik",2018,,"Course materials (video, slides, code)",GitHub,https://compsocialscience.github.io/summer-institute/2018/teaching-learning-materials
+5,A Beginner's Guide to Computational Social Science,Andrew Nolan Hall,2019,,Resource and reading List,Github,https://github.com/ohexel/comsocsci
+6,a chapter from Natural Language Processing with Python,"Steven Bird, Ewan Klein and Edward Loper",April 2019,,Book,personal website,http://www.nltk.org/book/ch01.html
+7,Analysis of the UN General Debate Corpus from a computational social science perspective,Aflueckiger,2019,,Code and dataset,Github,https://github.com/aflueckiger/ungdc
+8,At the Crossroads: Lessons and Challenges in Computational Social Science,"Javier Borge-Holthoefer, Yamir Moreno, Taha Yasseri","August 29, 2016",,Article,,https://www.frontiersin.org/research-topics/3623/at-the-crossroads-lessons-and-challenges-in-computational-social-science#overview
+9,Automating Open Science for Big Data,Merce Crosas et al.,2015,,Publication,University,https://gking.harvard.edu/publications/automating-open-science-big-data
+10,Big data is not only about data: the two cultures of modelling,Sage - Giuseppe Alessandro Veltri,"April 17, 2017",Methodological,Journal,Journal,http://journals.sagepub.com/doi/full/10.1177/2053951717703997
+11,Big Data Methods for Social Science and Policy,University of Cambridge,,,Report,University,"https://www.publicpolicy.cam.ac.uk/pdf/ppsri-big-data-report
+"
+12,Big Data. Big Obstacles. ,Dalton Conley et al.,"February 2, 2015",,Article,,http://www.chronicle.com/article/Big-Data-Big-Obstacles/151421
+13,Bit by Bit,Matt Salganick,"November 27, 2017",,Book,Personal website,https://www.bitbybitbook.com/en/1st-ed/introduction/digital-age/
+14,Bruce Sterling's SXSW 2017 Keynote: what should humans do?,Cory Doctorow,"March 18, 2017",,Article/Audio,,http://boingboing.net/2017/03/18/ive-seen-the-future-baby-it-is.html
+15,Citizen Science Practices for Computational Social Science Research,OpenScienceSociety,2016,,Article,Github,https://github.com/OpenScienceSociety/popup
+16,Cloud Computing: Concepts and Applications,Krish Rastogi,2016,Business and Communication,Book,OER Commons,https://www.oercommons.org/authoring/6838-cloud-computing-concepts-and-applications
+17,Companion repo for the EuroCSS 2018 workshop on Linguistic Temporal Trajectory Analysis,Bennet Kleinberg,2018,,Code and slides,Github,https://github.com/ben-aaron188/ltta_workshop
+18,Computation for social science seminar code,,2018,,Code,Github,https://github.com/CullenBoldt/CSSproject
+19,Computational Analysis of Social Science Research,"Professor Heather A. Haveman [University of California, Berkeley]",2019,,Code and project overview,Github,https://github.com/h2researchgroup/Computational-Analysis-For-Social-Science
+20,"Computational Cognitive Science, Fall 2004",Joshua Tenenbaum,2004,,Course materials,MITopencourseware,https://www.oercommons.org/courses/9-66j-computational-cognitive-science-fall-2004
+21,Computational Social Science,David Lazer - Science Mag,"February 6, 2009",,Article,Journal,http://science.sciencemag.org/content/323/5915/721
+22,Computational Social Science — Quo Vadis?,,2019,,Symposium,Github page,https://uzhdag.github.io/css/
+23,Computational Social Science (APAM E4990),"Jake Hofman, Columbia University ",2013,,Course Materials,Github,https://github.com/jhofman/css2013
+24,"Computational Social Science (SOC 596), Fall 2016",Matthew Salganik,2016,,Course Slides,Github,https://github.com/msalganik/soc596_f2016
+25,Computational Social Science Amsterdam,University of Amsterdam,2019,,,Github page,https://cssamsterdam.github.io/ 
+26,Computational Social Science at the University of Michigan,,2019,,Workshop/ CSS lab materials,Github,https://github.com/UM-CSS
+27,Computational Social Science of Disasters: Opportunities and Challenges,,2019,,Article,,https://www.researchgate.net/publication/332731322_Computational_Social_Science_of_Disasters_Opportunities_and_Challenges
+28,Computational Social Science Project SoSe 2018,Simon Schauß,2018,,Course Project,Github,https://github.com/sschauss/css
+29,Computational Social Science tutorial - Minerva Schools at KGI course,Her Teoh,2019,,Partial course materials,Github,https://github.com/HerTeoh/computational_social_science
+30,Computational Social Science workshop at European Conference on Complex Systems 2014,Paul Nulty,2014,,"Workshop materials (code, abstract, slides)",Github,https://github.com/pnulty/oiicss
+31,Computational Social Science: Discovery and Prediction,R Michael Alvarez,"March 7, 2016",Methodological,Book,Amazon,https://www.amazon.com/Computational-Social-Science-Prediction-Analytical/dp/1107518415
+32,Computational Social Science: Exciting Progress and Future Directions,Duncan J. Watts,"January 22, 2014",,Article,University,https://www.nae.edu/Publications/Bridge/106112/106118.aspx
+33,Computational Social Science: Toward a Collaborative Future,Hanna Wallach,"February 21, 2015",,Essay (PDF),Personal website,http://dirichlet.net/pdf/wallach15computational.pdf
+34,Course Materials for Teaching R,Thomas Leeper,,,Course Material,personal website / github,https://thomasleeper.com/Rcourse/   ; https://github.com/leeper/Rcourse
+35,CSS Grad Workshops,David Masad,2013,,Course Materials,Github,https://github.com/dmasad/cssGradWorkshops
+36,CSS orkshop hosted by the four Dutch technical universities,Vincent Traag,2017,,Workshop materials,Github,https://github.com/vtraag/4TU-CSS
+37,CSS Reading List,Sean Fischer,,,Reading list,Github,https://github.com/sf585978/cssReadingList
+38,CSS Tutorial Notebooks,University of Waterloo,2018,,Course Materials,Github,https://github.com/mmonzoor/computational_social_science_course_notebooks
+39,CSS with Python,Damian Trilling,2019,,Book,Github,https://github.com/damian0604/bdaca/blob/master/book/bd-aca_book.pdf
+40,"Cultures of Computing, Fall 2011",Stefan Helmreich,2011,,Course materials,MITopencourseware,https://www.oercommons.org/courses/21a-350j-the-anthropology-of-computing-fall-2004
+41,Digital Methods Summer School 2019,"Erik Borra, University of Amsterdam",2019,,Summer School ,,https://wiki.digitalmethods.net/Dmi/SummerSchool2019
+42,DoWhy: Python library that makes it easy to estimate causal effects,Amit Sharma,2018,,Code and blog,Github,https://github.com/microsoft/dowhy
+43,Emerging practices and perspectives on Big Data analysis in economics ,"Sage - Linnet Taylor, Ralph Schroeder, Eric Meyer","July 1, 2014",,Journal,Journal,http://journals.sagepub.com/doi/full/10.1177/2053951714536877
+44,Environmental Studies & Computer Science,"Chris Dubia, Joel Long",Jan 28 2016,,"Course materials (text, lessons, graphics)",OER Commons,https://arabic.oercommons.org/EN/authoring/4250-environmental-studies-computer-science
+45,EU research 'still failing to include social sciences',David Matthews,"April 3, 2017",,Article,Mag,https://www.timeshighereducation.com/news/eu-research-still-failing-to-include-social-sciences
+46,Exploring Mars and Getting Back to Bayesics,Talking Machines and Jasper Snoek,"April 11, 2019",,Podcast,,http://www.thetalkingmachines.com/
+47,Gary King on Big Data Analysis,Social Science Bites,"March 1, 2017",,Article,,http://www.socialsciencespace.com/2017/03/gary-king-on-big-data-analysis/
+48,Georgia Tech Graduate Seminar 8803-CSS class,,,,Graduate Seminar,GitHub,https://github.com/jacobeisenstein/gt-css-class
+49,GESIS – Leibniz Institute for the Social Sciences,GESIS,2019,,Repository,Github,https://github.com/gesiscss
+50,GESIS Notebooks: Open Research Computing (ORC) Project,GESIS,,,collection of repositories,Web,https://notebooks.gesis.org/gallery/
+51,ICDMSMA 2019 : International Conference on Data Mining and Social Media Analysis,,June 24-5 2019,,Conference,,https://waset.org/conference/2019/06/oslo/ICDMSMA
+52,Implementation of various social dynamics models - Aalto University course,Darshan M.S,2016,,Partial Course Project/materials,Github,https://github.com/MSDarshan91/Computational-Social-Science
+53,"Information, Communication and Society",Danah Boyd and Kate Crawford,"May 10, 2012",,Article,University,https://people.cs.kuleuven.be/~bettina.berendt/teaching/ViennaDH15/boyd_crawford_2012.pdf
+54,Intelligible Machine Learning Models for Healthcare,Microsoft - speaker: Rich Caruana,"June 19, 2015",,Video,,https://www.microsoft.com/en-us/research/video/intelligible-machine-learning-models-for-healthcare/
+55,Intro to Computational Social Science MS&E 231,"Sharad Goel, Stanford",,,Supplementary Course Materials,Github,https://github.com/5harad/css
+56,Introduction to Computational Thinking and Data Science,"Prof. Eric Grimson, Prof. John Guttag and Dr. Ana Bell",2016,,"Course materials (video, text, lecture notes, assignments)",MITopencourseware,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+57,Introduction to Computational Tools for Social Science,Rachel Bernhard,2018,,Course Materials,Github,https://github.com/ribernhard/PS239T
+58,Introduction to Computational Tools for Social Science (PS239T) course,"Jae Yeon Kim, UC Berkeley",2019,,Course Materials,Github,https://github.com/jaeyk/PS239T
+59,Is Bigger Always Better? Potential Biases of Big Data Derived from Social Network Sites,Sage - Eszter Hargittai,"April 9, 2015",Methodological,Journal,Journal,http://journals.sagepub.com/doi/abs/10.1177/0002716215570866
+60,Kellogg PhD Computational Social Science: Methods and Applications,Adam Pah,2018,,Course Materials,Github,https://github.com/adamrpah/KPHD_CSS
+61,Laboratory for exploring Computational Social Science,Gregg Reynolds,2014,,Resource List,Github,https://github.com/mobileink/lab.compss
+62,"Laboratory in Cognitive Science, Fall 2002",Pawan Sinha,2002,,Course materials,MITopencourseware,https://www.oercommons.org/courses/9-63-laboratory-in-cognitive-science-fall-2002
+63,MA Computational Social Science,University of Chicago,2019,,Course Materials,Github,https://github.com/UC-MACSS
+64,MACSS Computational Social Science Workshop,University of Chicago,2019,,Workshop materials,Github,https://github.com/uchicago-computation-workshop
+65,Methods @ Manchester: Social Media for Data Analysis,Mike Thelwall,01- 05 July 2019,,Training Day,,https://www.ncrm.ac.uk/training/show.php?article=9827
+66,Mobile Learning for Child Welfare,"Valerie Ryan, Lead Instructional Developer at the Academy for Professional Excellence at San Diego State University",2013,Social work,Webinar,OER Commons,https://www.oercommons.org/courses/mobile-learning-for-child-welfare
+67,Natural Language and the Computer Representation of Knowledge,Robert Berwick,2003,,Course materials,MITopencourseware,https://www.oercommons.org/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003
+68,Natural Language Processing,Jacob Eisenstein,November 2018,,Book,GitHub,https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
+69,O'Reilly Data Show - O'Reilly Media Podcast,O'Reilly Media,,,Podcast,,https://itunes.apple.com/us/podcast/oreilly-data-show/id944929220?intcmp=il-data-na-na-na_20150826_radar_data_show_podcast_post_top_subscribe_cta
+70,Ongoing list of useful lexica from Computational Social Science,Sharath Chandra,2019,,Lexica list,Github,https://github.com/chandrasg/lexica
+71,Oxford Internet Institute Digital Social Research: Methods Core,OII,,,Reading List,,https://rl.talis.com/3/oxford/lists/2CD6A27D-E74A-53FA-B043-D4FD8E60D09E.html?lang=en-GB
+72,Partially Derivative ,"Jonathon Morgan, Vidya Spandana, Chris Albon",,,Podcast,,http://partiallyderivative.com/
+73,Perspectives on Computational Research Project (U Chicago MA course project - MACS30200),Laurence Warner,2018,,Course Project,Github,https://github.com/w4rner/MACS30200proj
+74,POIR 613: Measurement Models and Statistical Computing ,Uni of Southern Califorrnia,2017,,Course materials ,GitHub,https://github.com/pablobarbera/POIR613
+75,Psychologists Want In On Social Media's Big Data Trove,Adam Rogers,"December 13, 2017",,Article,Mag,https://www.wired.com/story/the-traces-of-your-digital-life-could-upend-social-science/?mbid=nl_121317_backchannel_p6
+76,Python Tutorials Repository,User: nealcaren,2015,Python,Repository,GitHub,https://github.com/nealcaren/python-tutorials
+77,R for criminologists,Reka Solymosi,,,,Github,https://github.com/maczokni/R-for-Criminologists
+78,R helper Functions,Bennet Kleinberg,2018,,Code and slides,Github,https://github.com/ben-aaron188?tab=repositories
+79,Replication project for Georgia Tech's Computational Social Science course (CS 8803),Ian Stewart,2018,,Course Project,Github,https://github.com/ianbstewart/CSS_replication_project
+80,Research Data Management,areff2000,,,Diagram,,https://www.mindmeister.com/485435680/research-data-management-for-a-researcher
+81,Research on Computational Social Science,Kosuke Imai,2018,,Reading list,University,https://imai.fas.harvard.edu/projects/css.html
+82,Response to Ceglowski on superintelligence,Matthew Graves ,"January 13, 2017",,Article,,https://t.co/TbBZqazaZ5
+83,Rumor Modelling,Minerva Schools at KGI.,,,Code and slides,Github,https://github.com/a-parida12/RumorModeling
+84,Scattertext-PyData - A guide to using the python package Scattertext,Jason Kessler,2017,,repository,Github,https://github.com/JasonKessler/Scattertext-PyData
+85,Self-taught computational social science,honeyAndSw,2017,,Repository,Github,https://github.com/honeyAndSw/computational-social-science
+86,Sentiment Analysis on Product Reviews,Yang Zhou,2018,,Code,Github,https://github.com/YangZhouCSS/reviews_sentiment
+87,Should social science be more solution-oriented?,Duncan J. Watts,"January 10, 2017",,Article,Journal,https://www.nature.com/articles/s41562-016-0015
+88,"Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries",Alexandra Olteanu et al. ,Dec-16,Methodological,Publication,Microsoft,https://www.microsoft.com/en-us/research/publication/social-data-biases-methodological-pitfalls-ethical-boundaries/
+89,Social Media Analyses for Social Measurement,Michael F. Schober et al.,"January 13,  2016",Methodological,Article,,https://academic.oup.com/poq/article-abstract/80/1/180/2593846/Social-Media-Analyses-for-Social-Measurement?redirectedFrom=PDF
+90,Social Physics: How Good Ideas Spread ,Talks at Google - Sandy Pentland ,"March 7, 2014",,YouTube Video,,https://www.youtube.com/watch?v=HMBl0ttu-Ow
+91,Social Science Mag,Susan Athey,"Feburary 3, 2017",,References,Journal,"http://science.sciencemag.org/content/355/6324 
+"
+92,Sociology and Methodology of Social Research SOMET seminar series,NASP,May - July 2019,,Seminar Series,,https://www.nasp.eu/news-events-seminars/somet-seminar-series-2019-understanding-digital-societies.html
+93,Solutions for SOC 596: Computational Social Science (Princeton University),Alex Kindel,2016,,Course materials (Solutions),Github,https://github.com/atkindel/css_activities
+94,Stanford Computational Social Science Workshop material,Jongbin Jung,2015,,Workshop Materials,Github,https://github.com/jongbinjung/css-python-workshop 
+95,Structural topic models for enriching quantitative text analysis tutorial,Cornelius Puschmann,July 17th 2019,,Conference tutorial,Github,https://github.com/cbpuschmann/stm_ic2s2
+96,Summer Institute of Computational Social Science,Russell Sage Foundation & Alfred Sloan Foundation,2019,,Summer school,GitHub page,https://compsocialscience.github.io/summer-institute/2019/
+97,Summer Institute of Computational Social Science - Partner Site,,2019,,Conference,Github,https://compsocialscience.github.io/summer-institute/2019/los-angeles/
+98,Superintelligence: The Idea That Eats Smart People,Maciej Ceglowski,"October 29, 2016",,Keynote Transcript,,http://idlewords.com/talks/superintelligence.htm
+99,Superintelligence: The Idea That Eats Smart People,Maciej Ceglowski,"December 6, 2016",,YouTube Video,,https://www.youtube.com/watch?v=kErHiET5YPw 
+100,"Susan Athey on Machine Learning, Big Data, and Causation",The Library of Economic and Liberty,"September 12, 2016",,Audio,,http://www.econtalk.org/archives/2016/09/susan_athey_on.html
+101,Ten simple rules for responsible big data research,Matthew Zook et al. ,"March 30, 2017",,Journal,Journal,http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399
+102,The AI Misinformation Epidemic,Zachary C. Lipton,"March 28, 2017",,Article,,"http://approximatelycorrect.com/2017/03/28/the-ai-misinformation-epidemic/ 
+"
+103,The Digital Divide Among Twitter Users and Its Implications for Social Research,Sage - Grant Blank,"October 12, 2016",Methodological,Journal,Journal,http://journals.sagepub.com/doi/abs/10.1177/0894439316671698
+104,The History of Computing,Slava Gerovitch,2004,,Course materials,MITopencourseware,https://www.oercommons.org/courses/sts-035-the-history-of-computing-spring-2004
+105,The major advancements in Deep Learning in 2016,Pablo Soto ,"December 6, 2016",,Blog,,https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/
+106,The Messy Fourth Estate,Danah Boyd ,"June 20, 2018",,Blog,,"http://www.zephoria.org/thoughts/
+"
+107,The Ultimate Data Set,Fred Schmalz,,,Article,University,https://insight.kellogg.northwestern.edu/article/the-ultimate-data-set?_ga=1.165622070.845262339.1492534036
+108,Tools for doing computational social science in Python,Michael Chary,2014,,Tools/resources list,Github,https://github.com/mac389/snappy
+109,"tools/resources for journalism, media, communication, computational social science",Peter Dahlgren,,,Tools/resources list,Github,https://github.com/peterdalle/mediacommtools
+110,UofT Computational Social Science course: academic paper reviews and presentations,Thomas Hollis,2019,,publication List,Github,https://github.com/PsiPhiTheta/Computational-SocSci-Labs
+111,We Are All Social Scientists Now,Justin Grimmer - Standford University,Jan-15,,Symposium (PDF),University,https://stanford.edu/~jgrimmer/bd_2.pdf
+112,Who Is Doing Computational Social Science?,"Sage - Katie Metlzer, David A. Kim, Nick Allum, Angella Denman",2016,,Publication,,https://us.sagepub.com/sites/default/files/compsocsci.pdf
+113,Workshop series teaching R,Ryan Wesslen,2017,,Workshop Materials,Github,https://github.com/wesslen/fall2017-rworkshops
+114,WWW 2015 Tutorial on online CSS experiments,user: eytan,2018,Python,Tutorial materials,GitHub,https://github.com/eytan/www-15-tutorial
+115,Humanities-CS1,Jim Malazita,2019,digital humanities,homework,github,https://github.com/jwm462/Humanities-CS1/tree/master
+116,Programming FUNdamentals,"D-Lab, UC Berkeley","Jan 12, 2015",D-Lab training,training,github,https://github.com/rochelleterman/programming-fundamentals
+117,Computational Text Analysis,"D-Lab, UC Berkeley and Digital Humanities @ Berkeley Summer Institute","May 2 – 6, 2016 & Aug 17 – 21, 2015",,training,github,https://github.com/rochelleterman/text-analysis-dhbsi
+118,Extracting Data from the Web in Python,"D-Lab, UC Berkeley","May 23 – 26, 2016",python,training,github,https://github.com/dlab-berkeley/python-data-from-web
+119,Data Wrangling and Manipulation in R,"D-Lab, UC Berkeley","Aug 22, 2016",R,training,github,https://github.com/rochelleterman/r-data-wrang
+120,Graphics in R,"D-Lab, UC Berkeley","Aug 23, 2016",R,training,github,https://github.com/rochelleterman/r-graphics
+121,Machine Learning with scikit-learn,"The Hacker Within, UC Berkeley","Nov 15, 2016",,training,github,https://github.com/henchc/THW-scikit-learn
+122,Introduction to Text Analysis,"Institute for Political Methodology, Taiwan","July 24-25, 2018 ",,training,github,https://github.com/rochelleterman/IPM-text
+123,Introduction to Computational Tools and Techniques ,"Political Science Department, University of California, Berkeley",Fall 2015,,Graduate,github,https://github.com/rochelleterman/PS239T
+124,Machine Learning for Political Science,"Political Science Department, Stanford University",Winter 2018,,Undergraduate/Graduate,github,https://github.com/rochelleterman/polisci150b
+125,Research Methods: Getting to Grips with Research Design,Leicester University Psychology Department,,,Podcast,University,https://www2.le.ac.uk/projects/oer/oers/psychology/research-methods-getting-to-grips-with-research-design
+126,Assessing the Measurement and Validity of Ambiguous Concepts in Ethnic Conflict Datasets,Devashree Gupta,11/06/2014,,Activity / Lab,OER Commons,https://www.oercommons.org/courses/assessing-the-measurement-and-validity-of-ambiguous-concepts-in-ethnic-conflict-datasets
+127,Python Data Science Handbook,Jake Vanderplas,2018,python,Handbook,github,https://github.com/jakevdp/PythonDataScienceHandbook
+128,A Whirlwind Tour of Python,Jake Vanderplas,2017,python,Report materials,github,https://github.com/jakevdp/WhirlwindTourOfPython
+129,CSS Reading List,Sean Fischer,2018,,Reading List,github,https://github.com/sf585978/cssReadingList
+130,Collaborative Social Science Research Class,Lisa Katharina,2015,,Course materials,github,https://github.com/LisaKatharina/CSSR_Class
+131,Linked Open Data and Computational Social Science Methods,"Ji Ma, UT Austin",2019,,Course materials,github,https://github.com/ma-ji/open_data
+132,Introduction to Computational Tools for Social Science,"Rachel Bernhard, Berkley",2017,,Course materials,github,https://github.com/ribernhard/PS239T
+133,"On the design of a statistical database, micro-, macro- and metadata modelling",Hans-J Lenz,1993,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/3273
+134,BJS Dynamic Data Tools,U.S Bureau of Justice Statistics,11/07/2014,,Lesson,OER Commons,https://www.oercommons.org/courses/bjs-dynamic-data-tools
+135,Introduction to Data Science in Python,Hillary Green-Lerman,,python,Course,DataCamp,https://www.datacamp.com/courses/introduction-to-data-science-in-python
+136,Building an Electoral Dataset and Testing Hypotheses with the Data,Alfred Montero,11/06/2014,,Activity / Lab,OER Commons,https://www.oercommons.org/courses/building-an-electoral-dataset-and-testing-hypotheses-with-the-data
+137,Basic Monte Carlo Simulation for Beginning Econometrics,Betty J. Blecha,28/08/2012,,Activity / Lab,OER Commons,https://www.oercommons.org/courses/basic-monte-carlo-simulation-for-beginning-econometrics
+138,Introductory Business Statistics,Kevin Hadley,2019,statistics ,book,OpenStax,https://openstax.org/details/books/introductory-business-statistics
+139,"Big Data, Digital Media, and Computational Social Science: Possibilities and Perils",Sage- Dhavan V. Shah et al.,2015,,article,Journal,https://journals.sagepub.com/doi/full/10.1177/0002716215572084
+140,"Computational Social Science Methodology, Anyone?","Joop J. Hox, Utrecht University",2017,methodology,article,Journal,https://econtent.hogrefe.com/doi/full/10.1027/1614-2241/a000127
+141,"Caveat emptor, computational social science: Large-scale missing data in a widely-published Reddit corpus","Devin Gaffney ,J. Nathan Matias",2018,,article,Journal,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200162
+142,The locus of legitimate interpretation in Big Data sciences: Lessons for computational social science from -omic biology and high-energy physics,Sage- Andrew Bartlett et al.,2018,,article,Journal,https://journals.sagepub.com/doi/full/10.1177/2053951718768831
+143,Computational Social Science,Facebook Research,2019,,Video,Facebook Research,https://research.fb.com/videos/computational-social-science/
+144,Online Learning for Measuring Incentive Compatibility in Ad Auctions,"Zhe Feng, Okke Schrijvers, Eric Sodomka",2019,,article,Facebook Research,https://research.fb.com/publications/online-learning-for-measuring-incentive-compatibility-in-ad-auctions/
+145,Using Big Data to Identify and Understand Educational Inequality in America,"Elin Waring, Joseph Cleary",07/01/2019,,Activity / Lab,OER Commons,https://www.oercommons.org/courses/using-big-data-to-identify-and-understand-educational-by-joseph-cleary-and-elin-waring-2
+146,Social Connectedness Index,Facebook Research,2019,,Video,Facebook Research,https://research.fb.com/videos/social-connectedness/
+147,At The Crossroads: Lessons And Challenges In Computational Social Science,"Dr Taha Yasseri, Oxford Uni",2017,,Video,Oxford Internet Institute,https://www.oii.ox.ac.uk/videos/at-the-crossroads-lessons-and-challenges-in-computational-social-science/
+148,Big Data: Demonstrating The Value Of The UK Web Domain Dataset For Social Science Research,Professor Helen Margetts,2014,,article,Oxford Internet Institute,https://www.oii.ox.ac.uk/research/projects/uk-web-domain-dataset-for-social-science-research/
+149,AI for precision mental health,"Professor Zoe Kourtzi, Dr Maria Liakata",2019,,Research Project,Alan Turning Institue,https://www.turing.ac.uk/research/research-projects/ai-precision-mental-health
+150,D4M: Signal Processing on Databases,Jeremy Kepner,2012,,Course,MIT Open Courseware,https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/index.htm#
+151,Data Management,MIT Libraries Data Management,2016,,Workshop materials,MIT Open Courseware,https://ocw.mit.edu/resources/res-str-002-data-management-spring-2016/#
+152,"How to Process, Analyze and Visualize Data",Adam Marcus and Eugene Wu,,,PDF,MIT Open Courseware,https://ocw.mit.edu/resources/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/lectures-and-labs/MITRES_6_009IAP12_lab5.pdf
+153,WHAT IS COMPUTATIONAL SOCIAL SCIENCE?,Kellogg School of Management,05/04/2017,,Youtube Video ,Youtube,https://www.youtube.com/watch?v=kyZkptxlSA8
+154,Computational Social Science: Progress & Future Challenges,Duncan Watts,09/12/2016,,Youtube Video,Youtube,https://www.youtube.com/watch?v=gykNdC2CLVg
+155,"SICSS 2018 - Introduction to Computational Social Science (Day 1. June 18, 2018) ",Summer Institute in Computational Social Science,2018,,Youtube Video,Youtube,https://www.youtube.com/watch?v=9flaMjO-r24
+156,Computational Social Science,David Lazer et al.- Harvard,2009,,article,Journal,https://gking.harvard.edu/files/LazPenAda09.pdf
+157,SICSS 2019 -- Introduction to computational social science,Summer Institute in Computational Social Science,2019,,Youtube Video,Youtube,https://www.youtube.com/watch?v=EF7X9wwl0q4
+158,Computational Social Science: Social Research in the Digital Age,Matthew Salganik,2016,,Syllabus,Prinston Uni,http://www.princeton.edu/~mjs3/soc596_f2016/
+159,Master´s Programme in Computational Social Science,Board of the Faculty of Arts and Sciences,2017,,Syllabus,LINKÖPING UNIVERSITY,https://liu.se/studieinfo/en/program/f7mcd/3975/syllabus
+160,Computational social sciences at the CMB,CentreMarcBloch,2019,,Youtube Video,Youtube,https://www.youtube.com/watch?v=idmreTQzeg0
+161,Copmutational Social Science Initiative London: Large-Scale Human Behavior Mining Using Smart-Phones,Kate Farrahi,06/06/2016,,Youtube Video,Youtube,https://www.youtube.com/watch?v=nIs7xCzwF2Y
+162,Computational Social Science,"Katie Watanabe, Mayra Zamora",,,Syllabus,UC Davis,https://communication.ucdavis.edu/undergraduate/course-descriptions/course-syllabi/cmn150v-computational-social-science/view
+163,Computing for the Social Sciences,Benjamin Soltoff,2019,,Syllabus+ Slides,U Chicago,https://cfss.uchicago.edu/talk/
+164,"Josh Epstein - ""Frontiers of Computational Social Science"" (C4 Public Lectures)",Joshua Epstein,18/03/2019,,Youtube Video,Youtube,https://www.youtube.com/watch?v=wjFNFqnqlKo
+165,Introduction to PRogramming (Python) for the Humaities and Social Sciences,M. H. Beals,07/10/2018,,Youtube Video,Youtube,https://www.youtube.com/watch?v=bFNgh0KR7_E
+166,"Networks, Crowds, and Markets: Reasoning About a Highly Connected World",David Easley and Jon Kleinberg,2010,,Book,Cornell Uni,http://www.cs.cornell.edu/home/kleinber/networks-book/
+167,Python Full Course - Learn Python in 12 Hours | Python Tutorial for Beginners | Edureka,edureka!,2019,,Youtube Video Course,Youtube,https://www.youtube.com/watch?v=WGJJIrtnfpk&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu
+168,Cascading Behavior in Networks,Osamah Al-Ghammari,2016,,Slides,LinkedIn,https://www.slideshare.net/OsamahAlGhammari/cascading-behavior-in-networks
+169,Data Analysis with Python,Academind,02/11/2018,,Youtube Video,Youtube,https://www.youtube.com/watch?v=cXP_i5-nTXg
+170,Simulation in Social Sciences - Lecture 6 in Introduction to Computational Social Science,Lauri Eloranta- Helsinki Uni,2015,,Slides,LinkedIn,https://www.slideshare.net/laurieloranta/simulation-in-social-sciences-lecture-6-in-introduction-to-computational-social-science?qid=1cc31068-84bf-4a8c-ab65-1d99a74e40f8&v=&b=&from_search=60
+171,What is Computational Social Science?,Lauri Eloranta- Helsinki Uni,2015,,Video,Vimeo,https://vimeo.com/138522202
+172,Computational Methods for Modeling and Analyzing Complex Networks / Aaron Clauset,Aaron Clauset- CU Boulder,2014,,Video,Vimeo,https://vimeo.com/106614659
+173,Data Science Master Training - Introductory Session,user- ZaranTech,2020,,Video,Vimeo,https://vimeo.com/380986095
+174,Data Science for Human Well-being,Tim Althoff- Washington Uni,2019,,Video,Vimeo,https://vimeo.com/380172085
+175,A Byte of Python,not found,2016,python,Handbook,GitBook,https://swaroop-c-h.gitbook.io/byte-of-python/
+176,R Programming For Beginners | R Language Tutorial | R Tutorial For Beginners | Edureka,edureka!,18/05/2017,,Youtube Video,Youtube,https://www.youtube.com/watch?v=fDRa82lxzaU
+177,Data Analysis with Pyton for Excel Users,APMonitor.com,14/10/2015,,Youtube Video ,Youtube,https://www.youtube.com/watch?v=FXhED53VZ50
+178,R Programming | Simplilearn,Simplilearn,2017,,Youtube Video Course,Youtube,https://www.youtube.com/watch?v=Uenf8DbOjz0&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG
+179,Python Tutorial Videos | Simplilearn,Simplilearn,2019,,Youtube Video Course,Youtube ,https://www.youtube.com/watch?v=rKaN8JC70Iw&list=PLEiEAq2VkUUKoW1o-A-VEmkoGKSC26i_I
+180,Digital Science Webinar: Articulating Research Impact - Strategies from Around the Globe,"Jonathan Adams, Stacy Konkiel, Daniel S. Katz",2016,,Webinar,Figshare,https://figshare.com/articles/Digital_Science_Webinar_Articulating_Research_Impact_Strategies_from_Around_the_Globe/3555630
+181,Digital Science Webinar: Dealing with Data in a New Era of Research Data Management,"Kristin Briney, Margaret Henderso, Mariette van Selm",2016,,Webinar,Figshare,https://figshare.com/articles/Webinar_Dealing_with_Data_in_a_New_Era_of_Research_Data_Management/3518474
+182,Dive Into Python 3,Mark Pilgrim,2004,python,Book,Dive Into Python 3,http://diveintopython3.problemsolving.io/
+183,python social science intro,"Digital & Computational Methods, Faculty of Social Science, University of Helsinki",2018,python,Course materials,github,https://github.com/uh-dcm/python-social-science-intro
+184,Smartphones: An Emerging Tool for Social Scientists,Sage- Mika Raento et al.,2009,,article,Journal,https://journals.sagepub.com/doi/10.1177/0049124108330005
+185,Cascading Behavior in Networks,Lesley Van der Wee- Antwerp Uni,2010,,presentation,KU Leuven,https://people.cs.kuleuven.be/~bettina.berendt/teaching/2010-11-2ndsemester/ctdb/Mini-workshops/L4_P.pdf
+186,Computational thinking,Jeannette Wing,2018,,video,CommonSpace,https://www.commonspaces.eu/oer/computational-thinking/view/
+187,Can Distributed Volunteers Accomplish Massive Data Analysis Tasks?,Kanefsky et al.,2001,,article,Journal,https://ti.arc.nasa.gov/m/pub-archive/212h/0212%20(Kanefsky).pdf
+188,Handbook on Data Collection,AfriAlliance,2018,,handbook,AfriAlliance,https://afrialliance.org/files/downloads/2019-03/AfriAlliance_Handbook_on_data_collection_2018_ENG.pdf
+189,"Quantitative Research Methods for Political Science, Public Policy and Public Administration (With Applicatiosn in R)",,2017,,Textbook,Open Textbook Library,https://open.umn.edu/opentextbooks/textbooks/536
+190,Statistical Thinking for the 21st Century,Russell A. Poldrack,2018,,Textbook,Open Textbook Library,https://open.umn.edu/opentextbooks/textbooks/statistical-thinking-for-the-21st-century
+191,An Introduction to Psychological Statistics,"Garett C. Foster, David Lane, David Scott, Mikki Hebl, Rudy Guerra, Dan Oserson, Heidi Zimmer",2018,,Textbook,Open Textbook Library,https://open.umn.edu/opentextbooks/textbooks/an-introduction-to-psychological-statistics
+192,Computational Challenges in Global Environmental Research Infrastructures,"Paul Martin, Yin Chen, Alex Hardisty, Keith Jeffery, Zhiming Zhao",2017,,Book Chapter,Zenodo,https://zenodo.org/record/3361569#.XhciMcj7SUk
+193,Best Practices for Sustainable and Open Research Software in Computational Research,Kyle Niemeyer,2018,,Presentation,Zenodo,https://zenodo.org/record/1286959#.XhciO8j7SUk
+194,Research Methods in Psychology (New Zealand edition),"Paul Price, Rajiv Jhangiani",2018,,Textbook,Open Textbook Library,https://open.umn.edu/opentextbooks/textbooks/research-methods-in-psychology-new-zealand-edition
+195,Learning Statistics with R: A tutorial for psychology students and other beginners,Danielle Navarro,2018,,Textbook,Open Textbook Library,https://open.umn.edu/opentextbooks/textbooks/learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners
+196,Research Methods in Psychology - 2nd Canadian Edition,"Rajiv S. Jhangiani, I-Chant A. Chiang",2015,,Textbook,Open Textbook Library,https://open.umn.edu/opentextbooks/textbooks/research-methods-in-psychology-2nd-canadian-edition
+197,Course 10: Relational Database Management Systems (RDBMS) (ArsDigita University),ArsDigita Computer Science University,2004,,video,OER Archives,https://archive.org/details/arsdigita_10_databases
+198,Unit-16 Computer Application in Social Science Research,IGNOU,2017,,Course materials,eGyanKosh,http://www.egyankosh.ac.in/handle/123456789/20535
+199,International Social Research Methods,LSE,,,training,ReStore,http://www.restore.ac.uk/ISResMeth/
+200,Learning from Data: the art of statistics,David Spiegelhalter,2019,,lecture video,LSE,http://www.lse.ac.uk/lse-player?id=4663
+201,Data Literacy and Data Visualization,Bear F. Braumoeller,,,Audio course material,iTunes,https://itunes.apple.com/us/course/data-literacy-data-visualization/id693097601?ign-mpt=uo%3D8
+202,Chapter 5 Theory and Methodology in Learning Design Research ,Gráinne Conole,2011,,Book Chapter,cloudworks,https://cloudworks.ac.uk/cloud/view/5409
+203,eSourceL Behavioral and Social Science Research,Cathy Swift,2011,,Textbook,e-Source,http://www.esourceresearch.org/DefaultPermissions/ELearningBook/tabid/226/Default.aspx
+204,Data Visualization for Statistics in Social Science,Daniel Lüdecke,2020,,Repository,GitHub,https://github.com/strengejacke/sjPlot
+205,The dialectic of the general and particular in social science research and teaching,Wolff-Michael Roth,2003,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/5052
+206,Introduction to Research Methods in Political Science,John L. Korey,2008,,Textbook,CalPolyPomona,https://www.cpp.edu/~jlkorey/POWERMUTT/index.html
+207,"Social Science Research: Principles, Methods, and Practices",Anol Bhattacherjee,2012,,Textbook,Scholar Commons,https://scholarcommons.usf.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1002&context=oa_textbooks
+208,17.874 Quantitative Research Methods: Multivariate,Stephen Ansolabehere,2004,,Course,MIT Open Courseware,https://ocw.mit.edu/courses/political-science/17-874-quantitative-research-methods-multivariate-spring-2004/
+209,Swirl Lessons for ``Quantitative Social Science: An Introduction'',Kosuke Imai,2017,,Course materials,GitHub,https://github.com/kosukeimai/qss-swirl
+210,Social Data Science 2019 - a summer school course,Andreas Bjerre-Nielsen,2019,,Course materials,GitHub,https://github.com/abjer/sds2019
+211,Inquiry and Interpretation in Social Sciences,Lori Bradford,2013,,Reference material,MERLOT,https://contentbuilder.merlot.org/toolkit/html/snapshot.php?id=25275537767704
+212,Data Science 101,Data Science for Social Good,2014,,Course materials,GitHub,https://github.com/dssg/data-science-101
+213,Machine Learning for Social Science,Rochelle Terman,2018,,Course materials,GitHub,https://github.com/rochelleterman/polisci150b
+214,Introduction to Social Science Data Analysis,Christopher Gandrud,2013,,Course materials,GitHub,https://github.com/christophergandrud/Introduction_to_Statistics_and_Data_Analysis_Yonsei
+215,Some Methodological Uses of Responses to Open Questions and Other Verbatim Comments in Quantitative Surveys,"Eleanor Singer, Mick P. Couper",2017,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/52403
+216,Data Processing and Visualization Course at QMSS,Navid Hassanpour,2016,,Course materials,GitHub,https://github.com/hassanpour/QMSS_G4063--Digital-Methods-for-the-Social-Sciences
+217,The great change: quantitative approaches to the transformation of European society,Konrad H. Jarausch,1985,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/3493
+218,"Mixed methods: combining expert interviews, cross-impact analysis and scenario development","Matthias Muskat, Deborah Blackman, Birgit Muskat",2012,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/50241
+219,Social Data Science,Sebastian Barfort,2015,,Course materials,GitHub,https://github.com/sebastianbarfort/sds
+220,R(software),Johannes Breuer,2017,,,SSOAR,https://www.ssoar.info/ssoar/bitstream/handle/document/61071/ssoar-2017-breuer-R_Software.pdf?sequence=1&isAllowed=y&lnkname=ssoar-2017-breuer-R_Software.pdf
+221,A First Course in Data Science,Donghui Yan,2019,,Article,Journal,https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1623136
+222,Computer-Assisted Content Analysis,Erhard Mergenthaler,1995,,Article,SSOAR,https://www.ssoar.info/ssoar/handle/document/49743
+223,Summer 2018 Boot Camp on Computational Social Science,DSI Columbia University,2018,,Course materials,GitHub,https://github.com/DS-BootCamp-DSI-Columbia/AY2017-2018-Summer-CSS
+224,Useful IPython Notebooks for learning Computational Social Science techniques,Neal Caren,2015,python,Python Notebooks,GitHub,https://github.com/nealcaren/python-tutorials
+225,Materials for the WWW 2015 tutorial on online experiments for computational social science,Eytan Bakshy,2015,,Course materials,GitHub,https://github.com/eytan/www-15-tutorial
+226,Material for a Computational Social Science (CSS) Workshop hosted by the four Dutch technical universities.,Vincent Traag,2019,,Course materials,GitHub,https://github.com/vtraag/4TU-CSS
+227,Text as Data: Statistical Text analysis for the Social Sciences,Princeton University,2016,,Syllabus,GitHub,https://github.com/honeyAndSw/computational-social-science/blob/master/resources/princeton-textasdata-syllabus-2016.pdf
+228,Supplementary material for MS&E 231: Intro to Computational Social Science,Sharad Goel,2020,,Course materials,GitHub,https://github.com/5harad/css
+229,MATH 146 – Introduction to Statistics,Federico Marchetti ,,,Course ,Google Drive,https://drive.google.com/drive/u/0/folders/0B9HLBJSmC6v2bmkzVDJiTThqWFk
+230,Introduction to Computational Creativity, University of Helsinki,2015,,Lecture,Merlot,https://www.merlot.org/merlot/viewMaterial.htm?id=936659
+231,Python for Everybody,Charles R. Severance,2016,python,Textbook,Merlot,http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+232,Computer-assisted text analysis methodology in the social sciences,Melina Alexa,1997,,Working paper,SSOAR,https://www.ssoar.info/ssoar/handle/document/20084
+233,Research Methods Exercises Using the 2017 Monitoring the Future Survey of High School Seniors and SDA ,Ed Nelson,2019,,Exercises,Merlot,http://ssric.org/node/619
+234,Opening up to big data: computer-assisted analysis of textual data in social sciences,Gregor Wiedemann,2013,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/38344
+235,Computational Social Science for the World Wide Web,"Markus Strohmaier, Claudie Wagner",2014,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/61937
+236,Identifying events using computer-assisted text analysis,"Juliane Landmann, Cornelia Züll",2008,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/44368
+237,The use of OER for research methods teaching in social science and education,Ester Ehiyazaryan,2011,,Teaching help,cloudworks,https://cloudworks.ac.uk/cloud/view/5548
+238,Ethnography and analysis: a test of some algorithmic procedures,J.C Mitchell,1981,,Collection article,SSOAR,https://www.ssoar.info/ssoar/handle/document/18943
+239,Data Processing and Documentation: Generating High Quality Research Data in Quantitative Social Science Research,Sebastian Netscher,2018,,Collection,SSOAR,https://www.ssoar.info/ssoar/handle/document/59492
+240,Possible Uses of Nonprobability Sampling for the Social Sciences,Ulrich Kohler,2019,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/62409
+241,Can Nonprobability Samples be Used for Social Science Research? A cautionary tale,"Elizabeth S. Zack, John Kennedy, J. Scott Long",2019,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/63847
+242,Computational and Simulation Modeling of Political Attitudes: the 'Tiger' Area of Political Culture Research,Camelia Florela Voinea,2016,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/45947
+243,Video games as a multifaceted medium: a review of quantitative social science research on video games and a typology of video game research approaches,James D. Ivory,2013,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/32903
+244,Computer-Assisted Content Analysis of Twitter Data,"Jessica Einspänner, Mark Dang-Anh, Caja Thimm",2014,,Collection article,SSOAR,https://www.ssoar.info/ssoar/handle/document/54492
+245,Documenting Georeferenced Social Science Survey Data: Limits of Metadata Standards and Possible Solutions,"Stefan Jünger, Kerrin Borschewski, Wolfgang Zenk-Möltgen",2019,,Journal article,SSOAR,https://www.ssoar.info/ssoar/handle/document/66069
+246,CSS workshop on Open Science and Software best practices,"van Kuppevelt, Dafne; Diblen, Faruk",2019,,Presentation,zenodo,https://zenodo.org/record/3233889#.XiHVS0f7SUk
+247,Social Science Preregistration Metadata Crosswalk,"Karcher, Sebastian",2018,,Dataset,zenodo,https://zenodo.org/record/1158297#.XiHWoUf7SUk
+248,From Counting to Connecting at KU's Digital Social Science Lab,"Parraguez, Pedro",2016,,Presentation,zenodo,https://zenodo.org/record/46473#.XiHXjEf7SUk
+249,Finding Ways Between Metadata Models,"Kleemola, Mari; Moilanen, Katja; Dolinar, Maja; Brvar, Irena Vipavc",2018,,Presentation,zenodo,https://zenodo.org/record/2530057#.XiHX2Uf7SUk
+250,CESSDA Webinar: Data Discovery,"Johana Chylíková, Martin Vávra; Kristýna Bašná",2019,,Webinar,zenodo,https://zenodo.org/record/2653950#.XiHYBkf7SUk
+251,Perspectives on the Implementation of the CESSDA Metadata Model,"Vipavc Brvar, Irena, Bolko, Irena",2017,,Presentation,zenodo,https://zenodo.org/record/1118378#.XiHYWEf7SUk
+252,pyDataverse talk at the Dataverse Community Conference 2019,"Kasberger, Stefan",2019,python,Presentation,zenodo,https://zenodo.org/record/3265128#.XiHZlEf7SUk
+253,The Matter of Meta in Research Data Management,"Förster, Andre, et al.",2019,,Presentation,zenodo,https://zenodo.org/record/3598256#.XiHZiUf7SUk
+254,Metadata and index on social science research data,Thomas Krämer,2017,,Dataset,zenodo,https://zenodo.org/record/896431#.XiHZ9Uf7SUk
+255,Causal inference mixtape,Scott Cunningham,2020,,Textbook,website,https://scunning.com/cunningham_mixtape.pdf
+256,Public Administration teaching materials,,,,platform and all types of materials,website,https://higherstudy.org/
+257,SPSS Tutorials,Patrick White,2020,SPSS,Video,YouTube,https://www.youtube.com/user/patrickkwhite/videos
+258,How to simulate data,Alan Pickering,2020,,Video,YouTube,https://youtu.be/n-d_DZsxHQc
