@@ -64,7 +64,7 @@ Read more on working with [GitHub pages projects](https://help.github.com/articl
 Want to embed your nifty table on your website? You can use an [iframe](http://www.w3schools.com/tags/tag_iframe.asp). Once you've deployed your table (above in step 5) you can link to it in an iframe right in your HTML.
 
 ```html
-<iframe style="border-style: none;" src="http://derekeder.github.io/csv-to-html-table/" height="950" width="600"></iframe>
+<iframe style="border-style: none;" src="http://danielagduca.github.io/teaching_materials/" height="950" width="600"></iframe>
 ```
 
 ## Dependencies
