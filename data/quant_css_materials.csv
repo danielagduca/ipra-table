@@ -269,5 +269,6 @@ Simulation of power in the t-test,Mike Griffiths,2020,Power diagram Howell t-tes
 Making Sense of Criminological Data,Reka Solymosi,2019,R,"Syllabus, Slides for lectures, Reading List, Worksheets/ lab activities, Homework activies, Data sets",github,https://maczokni.github.io/MSCD/
 Modelling Criminological Data,"Juanjo Medina, Reka Solymosi",2020,R,Lab workseets/exercises,github,https://jjmedinaariza.github.io/modelling_book/
 Crime Mapping,Reka Solymosi and Juanjo Medina,2018,R,Lab workseets/exercises,github,https://maczokni.github.io/crimemapping_textbook_bookdown/
-New forms of data for social science research,"Dr Julia Kasmire and Dr Diarmuid McDonnell, UKDS",2020,,Training,GitHub,https://github.com/UKDataServiceOpen/new-forms-of-data
+New forms of data for social science research,"Dr Julia Kasmire and Dr Diarmuid McDonnell, UKDS",2020,web-scraping; text mining; social media; apis; computational social science,training,GitHub,https://github.com/UKDataServiceOpen/new-forms-of-data
 Data Visualization,Dr Andrew Heiss,2020,"R, ggplot2",Course materials,website,https://datavizm20.classes.andrewheiss.com
+Computational Social Science,"Martin Hilbert, UC Davis",2020,"computational social science, artificial intelligence, social network analysis, simulations",Course,Coursera,https://www.coursera.org/specializations/computational-social-science-ucdavis#about
